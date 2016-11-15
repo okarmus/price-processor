@@ -1,0 +1,5 @@
+id,price,currency,quantity,matching_id
+1,1000,USD,2,1
+2,1050,PES,1,1
+3,2000,PLN,1,1
+4,1750,USD,2,2
