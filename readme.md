@@ -7,7 +7,7 @@ Result is also saved into csv file. Project is using in-memory h2 database, whic
 ## Project input
 
 There are three inputs in a project. They have default value in project. Moreover, they can be parametrized for example
-using command line (--<property_name>=<property_value>)
+using command line (--property_name=property_value)
 
  - currenciesPath: specify location of csv containing currencies, default:currencies.csv
  - dataPath: specify location of csv containing information about transactions, default:currencies.csv
